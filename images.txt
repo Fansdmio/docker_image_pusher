@@ -14,3 +14,5 @@ postgres
 malaohu/mobaxterm-genkey
 gitlab/gitlab-runner
 gitlab/gitlab-ce
+minio/minio
+n8nio/n8n
