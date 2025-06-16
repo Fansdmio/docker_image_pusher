@@ -8,6 +8,7 @@ sagikazarmark/dvwa
 acgpiano/sqli-labs
 mysql
 mongo
+mongo:v4.4.29
 redis
 rabbitmq
 postgres
