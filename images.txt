@@ -1,3 +1,5 @@
+cassandra
+neo4j
 mongo:4.4.29
 nginx
 sagikazarmark/dvwa
