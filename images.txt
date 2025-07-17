@@ -1,3 +1,5 @@
+bitnami/kafka
+httpd
 rmohr/activemq
 apache/rocketmq
 apache/kafka
