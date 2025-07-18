@@ -1,3 +1,4 @@
+tchiotludo/akhq
 bitnami/kafka
 httpd
 rmohr/activemq
