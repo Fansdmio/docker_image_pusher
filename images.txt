@@ -1,3 +1,4 @@
+nextcloud
 logstash:9.0.4
 openjdk:8
 tchiotludo/akhq
